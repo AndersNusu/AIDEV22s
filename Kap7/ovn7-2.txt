@@ -1,0 +1,5 @@
+Lägg talet som ska undersökas i en variabel n.
+Sätt variabeln sum till 0.
+Försök dividera n med alla tal, k, som är större än eller lika med 1 och mindre än n. 
+Om någon division går jämnt ut så addera k till sum.
+Om sum är lika med n så är talet ett perfekt tal, annars inte.
